@@ -59,6 +59,8 @@ p {
     background-position: center;
 }
 
+/* these float classes are found in the images and dictate where in the section that they will be moved to (left or right) */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -86,6 +88,8 @@ p {
     background-color: #2589bd;
 }
 
+/* benefit-sections adjusts 3 different image sections by giving each class the same name*/
+
 .benefit-sections {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,6 +105,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* with each div classs containing the same properties we are able to avoid redundencies in the CSS by condensing each image property into a couple lines */
 
 .clip-art-sec {
     margin-bottom: 20px;
