@@ -1,7 +1,8 @@
-# homework
+# Homework
 The goal of this project was to minimize the redundencies found in the CSS and HTML files originally provided.
 ## Picture of webpage
-This is a test:![Front page of working Horiseon webpage](assets/images/horiseonFrontPage.jpg)
-###  Links to code and webpage
+![Front page of working Horiseon webpage](assets/images/horiseonFrontPage.jpg)
+###  Link to code
 https://github.com/Maistrohub/homework1
+#### Link to webpage
 https://maistrohub.github.io/homework1/
